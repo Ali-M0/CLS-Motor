@@ -1,7 +1,7 @@
 # CLS-Motor: A compact solution for stepper motors
 
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)        ![Open Source ❤️](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg)
+              ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)        ![Open Source Yes](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg)
 
 //Insert Photo
 
