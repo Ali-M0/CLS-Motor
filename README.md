@@ -15,11 +15,19 @@
 <br>
 ## Key Features
 - Real-time closed-loop correction using MT6816 magnetic encoder
+<br>
 - Communication via CAN bus to main controller (Teensy 4.1)
+<br>
 - 6-layer custom PCB designed in KiCad for signal integrity and thermal performance
+<br>
 - STM32F103CBT6 handles encoder data and CAN communication
+<br>
 - Power regulation via LP2992AIM5-3.3 linear regulator
+<br>
 - Fully custom firmware in C++ (CLion environment)
+
+<br>
+<br>
 
 ## Motivation
 In many robotic arm project, I encountered that missed steps due to load variation with traditional stepper motors was a common issue, effecting the accuracy of many robotic projects involing stepper motors. This system was designed to detect and correct those errors using encoder feedback and a robust closed-loop architecture.
