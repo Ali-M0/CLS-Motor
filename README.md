@@ -13,6 +13,7 @@
 
 <br>
 <br>
+
 ## Key Features
 - Real-time closed-loop correction using MT6816 magnetic encoder
 <br>
@@ -30,7 +31,9 @@
 <br>
 
 ## Motivation
-In many robotic arm project, I encountered that missed steps due to load variation with traditional stepper motors was a common issue, effecting the accuracy of many robotic projects involing stepper motors. This system was designed to detect and correct those errors using encoder feedback and a robust closed-loop architecture.
+In robotic systems—especially robotic arms—accuracy and reliability are critical. While working on my own robotic arm project, I noticed that traditional open-loop stepper motors often missed steps under load, compromising precision.
+<br>
+To solve this, I developed the Closed-Loop Stepper (CLS) Motor system—an integrated hardware/software solution that enables real-time position correction through encoder feedback and control logic.
 <br>
 
 
