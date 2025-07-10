@@ -16,6 +16,7 @@
 
 ## Key Features
 
+<br>
 - Real-time closed-loop correction using MT6816 magnetic encoder
 <br>
 - Communication via CAN bus to main controller (Teensy 4.1)
