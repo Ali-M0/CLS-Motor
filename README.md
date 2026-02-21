@@ -12,10 +12,9 @@
 
 
 <br>
-Why not improve the capabilities of an already abundant and capable motor rather than create an environment where people are forced in buying an expensive motor and control system to enter the developing field of robotics, therefore lowering the barrier of entry.
+Why not improve the capabilities of an already abundant and capable motor.
 <br>
-YouTube Video Demo and Guide: 
-<br>
+
 
 ## Key Features
 
@@ -45,7 +44,7 @@ To solve this, I developed the Closed-Loop Stepper (CLS) Motor system—an integ
 <br>
 
 
-NEW UPDATES COMING SOON
+FUTURE PLANS
 <br>
 
 ># Correction Software for CLS Motor
